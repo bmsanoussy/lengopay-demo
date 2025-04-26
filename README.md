@@ -1,6 +1,6 @@
 # LengoPay Demo
 
-Application de démonstration pour l'intégration de l'API de paiement LengoPay avec Next.js et Supabase.
+Application de démonstration pour l'intégration de l'API de paiement [LengoPay](https://lengopay.com/) avec Next.js et Supabase.
 
 ## Démo Vidéo
 
