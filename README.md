@@ -4,7 +4,7 @@ Application de démonstration pour l'intégration de l'API de paiement [LengoPay
 
 ## Démo Vidéo
 
-[![Regarder la démo sur YouTube](https://img.shields.io/badge/YouTube-Regarder_la_démo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/votre-lien-a-venir)
+[![Regarder la démo sur YouTube](https://img.shields.io/badge/YouTube-Regarder_la_démo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ciRNDuY9imc)
 
 > 
 > La vidéo couvre:
@@ -15,7 +15,7 @@ Application de démonstration pour l'intégration de l'API de paiement [LengoPay
 
 ## Technologies
 
-- Next.js 15.3.0 (App Router)
+- Next.js (App Router)
 - Supabase
 - TypeScript
 - Tailwind CSS
